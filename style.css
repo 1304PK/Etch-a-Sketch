@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 65%, rgba(83, 237, 157, 1) 100%);
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center
+}
+
+.container {
+    width: 700px;
+    height: 700px;
+    background-color: white;
+    border: 20px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column
+}
+
+.horizontalSketches {
+
+    flex: 1;
+    display: flex;
+}
+
+.verticalSketches {
+    border: 1px solid black;
+    flex: 1;
+}
