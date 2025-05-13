@@ -65,6 +65,7 @@ body {
 #set-color-method {
     background-color: rgb(18, 219, 149);
     margin-left: 20px;
+    width: 205px;
 }
 
 #color-selector {
@@ -80,3 +81,16 @@ body {
     margin-left: 20px;
 }
 
+.author {
+    padding: 10px;
+    background-color: white;
+    width: 670px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-family: Tahoma;
+    background-image: linear-gradient(to left, rgb(0, 174, 255), rgb(67, 67, 244) 60%);
+    color: white;
+    font-weight: bold;
+}
