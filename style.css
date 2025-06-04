@@ -89,14 +89,15 @@ button {
 
 .author {
     padding: 10px;
-    background-color: white;
-    width: 670px;
+    width: 450px;
     font-size: 20px;
     text-align: center;
     margin-top: 20px;
     border-radius: 10px;
     font-family: Tahoma;
-    background-image: linear-gradient(to left, rgb(0, 174, 255), rgb(67, 67, 244) 60%);
+    /* background-image: linear-gradient(to left, rgb(0, 174, 255), rgb(67, 67, 244) 60%); */
+    border: 5px solid white;
     color: white;
     font-weight: bold;
+
 }
